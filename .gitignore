@@ -1,0 +1,7 @@
+target/**
+.idea/
+project/target/**
+project/project/**
+hcd-smart-garden-hcd/target/**
+hcd-smart-garden-deploy/target/**
+hcd-smart-garden-assembly/target/**
